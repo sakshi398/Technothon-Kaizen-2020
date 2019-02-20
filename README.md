@@ -19,7 +19,7 @@
 + This system would directly work towards the betterment of Indian farmers and workers in the agricultural field and would indirectly help in growth and development of India as agriculture sector is one of the major contributors in GDP.
 
 ## Project Objective:
-+ We are planning to build a web application that will locate all farmers with small land holdings.They’ll asked to work collectively in their adjacent land holdings.
++ We are planning to build a web application that will locate all farmers with small land holdings. They’ll asked to work collectively in their adjacent land holdings.
 + Further, keeping the quality of soil of all land holdings in mind, best crops suitable for the field will be suggested. Finally at the time of revenue distribution, the profit will be distributed among the farmers in the ratio of the their land holdings.
 + After harvesting the crop, the farmers will get information regarding nearby available markets for selling their produce, depending upon those selections the transport management system will come into play wherein they’ll be able to avail transport facilities between their  farmlands and desired market of their choice.
 + Combining data from the moisturiser sensor and temperature sensor with machine learning algorithm to determine the the amount of water required in different parts of the field.
