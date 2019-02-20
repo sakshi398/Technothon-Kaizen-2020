@@ -1,5 +1,6 @@
 # Technothon-Kaizen-2019
 # Project Title: Nation-Wide Agricultural League
+## Overview:
 + Presently, major problems faced by Indian agriculture are cropping pattern, average size of land holdings, production techniques and instability in production due to changing weather.
 + Our project is aimed at solving issues that concern with the small size of land holdings and improper production techniques. 
 + The above mentioned problem can be inculcated by bringing all small scale farmers, having lands adjacent to each other. Further, all of them will be suggested to come together and join in their land to form a large piece of land.
