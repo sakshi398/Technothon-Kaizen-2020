@@ -2,7 +2,7 @@
 # Project Title: Nation-Wide Agricultural League
 
 ## Motivation:
-From the research conducted in India we could infer that due to increasing population and breakdown of the joint families continuous sub-division of agricultural land into smaller plots has occured. Smaller size of holdings cultivation becomes uneconomic. This ever-increasing land distribution problems faced by local farmers and people associated with agriculture have motivated us for the creation and maintenance of the project.
+From the research conducted in India we can infer that due to increasing population and breakdown of the joint families continuous sub-division of agricultural land into smaller plots has occured. Smaller size of holdings cultivation becomes uneconomic. This ever-increasing land distribution problems faced by local farmers and people associated with agriculture have motivated us for the creation and maintenance of the project.
 
 ## Overview:
 + Presently, major problems faced by Indian agriculture are cropping pattern, average size of land holdings, production techniques and instability in production due to changing weather and transport management system.
