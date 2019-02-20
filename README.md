@@ -12,7 +12,7 @@
 + Such sub-division and fragmentation make the efficient use of land virtually impossible and add to the difficulties of increasing capital equip­ment on the farm. All these factors account for the low productivity of Indian agriculture.
 + Further, due to unavailability of proper knowledge, regarding how to effectively use the available resources (neglection of crop rotation, inadequate use of manures and fertilisers, use of poor quality seeds, inadequate use of efficient farm equipment) further reduces the productivity.
 
-![Image description]https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Farmer_land_share.png
+![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Farmer_land_share.png)
 ## Target Audience:
 + This system would directly work towards the betterment of Indian farmers and workers in the agricultural field and would indirectly help in growth and development of India as agriculture sector is one of the major contributors in GDP.
 ## Project Objective:
