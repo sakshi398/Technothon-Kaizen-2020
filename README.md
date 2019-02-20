@@ -4,7 +4,7 @@
 + Presently, major problems faced by Indian agriculture are cropping pattern, average size of land holdings, production techniques and instability in production due to changing weather.
 + Our project is aimed at solving issues that concern with the small size of land holdings and improper production techniques. 
 + The above mentioned problem can be inculcated by bringing all small scale farmers, having lands adjacent to each other. Further, all of them will be suggested to come together and join in their land to form a large piece of land in order to cultivate the field on a whole.
-+ Addition, to that a study of the soil quality, moisture content using moisturiser sensor and temperature sensor with machine learning algorithm for predicting the right crop and correct amount of water required in different parts of the field.
++ Addition, to that a study of the soil quality, moisture content and temperature using moisturiser sensor, temperature sensor will be done along with machine learning algorithm for predicting the right crop and correct amount of water required in different parts of the field.
 
 ![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/India_land_distribution.png)
 
